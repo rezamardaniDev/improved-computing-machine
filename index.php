@@ -7,3 +7,4 @@ echo 'Git tutorial';
 echo 'KOAKOA';
 
 echo 'zood';
+print 'zood';
