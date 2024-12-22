@@ -1,6 +1,6 @@
 <?php
 
-echo 'salam';
+echo 'Hi';
 
 echo 'Git tutorial';
 
