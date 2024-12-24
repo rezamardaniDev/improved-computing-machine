@@ -6,7 +6,7 @@ echo 'Git tutorial';
 
 echo 'KOAKOA';
 
-echo 'zood';
+echo 'zoodCode';
 print 'zood';
 var_dump('temp branch is here');
 
